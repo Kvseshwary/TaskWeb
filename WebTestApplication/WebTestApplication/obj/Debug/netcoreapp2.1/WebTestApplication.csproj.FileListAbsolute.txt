@@ -1,0 +1,14 @@
+F:\Sai\WebTestApplication\WebTestApplication\bin\Debug\netcoreapp2.1\WebTestApplication.deps.json
+F:\Sai\WebTestApplication\WebTestApplication\bin\Debug\netcoreapp2.1\WebTestApplication.runtimeconfig.json
+F:\Sai\WebTestApplication\WebTestApplication\bin\Debug\netcoreapp2.1\WebTestApplication.runtimeconfig.dev.json
+F:\Sai\WebTestApplication\WebTestApplication\bin\Debug\netcoreapp2.1\WebTestApplication.dll
+F:\Sai\WebTestApplication\WebTestApplication\bin\Debug\netcoreapp2.1\WebTestApplication.pdb
+F:\Sai\WebTestApplication\WebTestApplication\obj\Debug\netcoreapp2.1\WebTestApplication.csprojAssemblyReference.cache
+F:\Sai\WebTestApplication\WebTestApplication\obj\Debug\netcoreapp2.1\WebTestApplication.csproj.CoreCompileInputs.cache
+F:\Sai\WebTestApplication\WebTestApplication\obj\Debug\netcoreapp2.1\WebTestApplication.RazorAssemblyInfo.cache
+F:\Sai\WebTestApplication\WebTestApplication\obj\Debug\netcoreapp2.1\WebTestApplication.RazorAssemblyInfo.cs
+F:\Sai\WebTestApplication\WebTestApplication\obj\Debug\netcoreapp2.1\WebTestApplication.AssemblyInfoInputs.cache
+F:\Sai\WebTestApplication\WebTestApplication\obj\Debug\netcoreapp2.1\WebTestApplication.AssemblyInfo.cs
+F:\Sai\WebTestApplication\WebTestApplication\obj\Debug\netcoreapp2.1\WebTestApplication.RazorTargetAssemblyInfo.cache
+F:\Sai\WebTestApplication\WebTestApplication\obj\Debug\netcoreapp2.1\WebTestApplication.dll
+F:\Sai\WebTestApplication\WebTestApplication\obj\Debug\netcoreapp2.1\WebTestApplication.pdb
