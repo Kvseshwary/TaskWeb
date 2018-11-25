@@ -34,11 +34,11 @@ Visual Studio 2017 to create ASP.NET Web API  that returns a list of Person. The
 
 2)Once the Web API call completes you should see the person details returned from the Web API call displayed as list items in the browser.
 
-3)You can see the Request Call in the localhost by using the following command which display the 
+3)You can  Request in the localhost by using the following command which display the 
 Xml result of the data
 http://localhost:/api/Person
 
-4)The response is via AJAX call displayed in the index.html page
+4)Client-Side AJAX ,The response is  displayed in the index.html page
 
 #### How to run your application
 
