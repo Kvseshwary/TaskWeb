@@ -9,7 +9,7 @@
     <div>
         <h2>Member resources</h2>
         <ul id="persons" />
-        
+      
     </div>
     <div>
         <h2>Search by ID</h2>
@@ -30,6 +30,8 @@
             $.each(data, function (key, item) {
                 // Add a list item for the product.
                 $('<li>', { text: formatItem(item)}).appendTo($('#persons'));
+
+                alert(data[1].product[0].Name)
               
                 //format item function that accepts Memberno,forename,surname
             });
@@ -37,7 +39,7 @@
     });
 
     function formatItem(item) {
-        return item.MemberNumber + '  ' + item.ForeName + ' ' + item.Surname + ' ' + item.Name + ' ' + item.Cost;
+        return item.MemberNumber + '  ' + item.ForeName + ' ' + item.Surname + ' ' + item.product[0].Name + ' ' + item.product[0].Cost;
     }
 
     function find() {
